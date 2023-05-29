@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a2d44e61-3e4a-4dda-85fa-836198209fb6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/media/file_example_MP3_700KB_IWX9u2q.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/file_example_MP3_700KB_k1r7HRV.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/mado-el-khouly-LtEnz8x336I-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/users/edit_profile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/users/follow_users.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/users/follower_profile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/users/my_followers.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/users/profile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/migrations/0002_auto_20200313_2322.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/migrations/0003_auto_20200314_0028.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Music_Sharing_Site2/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Music_Sharing_Site2/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/views.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Django default" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Django default" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Django default" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1YHVdjWlu4N0xgHiZJPsFEGFhMc" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+  </component>
+  <component name="RunManager" selected="Django server.Music_Sharing_Site2">
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Music_Sharing_Site2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Music_Sharing_Site2" type="Python.DjangoServer" factoryName="Django server">
+      <module name="Music_Sharing_Site2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="Music_Sharing_Site2.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.manage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2d44e61-3e4a-4dda-85fa-836198209fb6" name="Default Changelist" comment="" />
+      <created>1582599595249</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582599595249</updated>
+      <workItem from="1582599597189" duration="4835000" />
+      <workItem from="1582617281154" duration="5000" />
+      <workItem from="1582626059201" duration="3023000" />
+      <workItem from="1582631725941" duration="1934000" />
+      <workItem from="1582824881182" duration="4649000" />
+      <workItem from="1582830971732" duration="865000" />
+      <workItem from="1582835502664" duration="183000" />
+      <workItem from="1582882842026" duration="14000" />
+      <workItem from="1583748079922" duration="20000" />
+      <workItem from="1583782551309" duration="17000" />
+      <workItem from="1583865719280" duration="5000" />
+      <workItem from="1583943951181" duration="4932000" />
+      <workItem from="1584017025721" duration="2118000" />
+      <workItem from="1584044600147" duration="34000" />
+      <workItem from="1584045669522" duration="417000" />
+      <workItem from="1584090095994" duration="489000" />
+      <workItem from="1584116147444" duration="11160000" />
+      <workItem from="1584127777374" duration="2776000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="76" key="#Inspections" timestamp="1584117069688">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="76" key="#Inspections/0.0.1536.834@0.0.1536.834" timestamp="1584117069688" />
+    <state x="496" y="39" key="#Music_Sharing_Site2" timestamp="1582830568309">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="496" y="39" key="#Music_Sharing_Site2/0.0.1536.864@0.0.1536.864" timestamp="1582830568309" />
+    <state x="361" y="94" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582626074323">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="94" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1582626074323" />
+    <state x="512" y="235" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582831027654">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="512" y="235" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1582831027654" />
+    <state x="458" y="0" key="CommitChangelistDialog2" timestamp="1584130687261">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="458" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1584130687261" />
+    <state x="549" y="190" key="FileChooserDialogImpl" timestamp="1582600069530">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="190" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1582600069530" />
+    <state width="1493" height="250" key="GridCell.Tab.0.bottom" timestamp="1584130615370">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="250" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1584130615370" />
+    <state width="1493" height="374" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1582882855619" />
+    <state width="1493" height="250" key="GridCell.Tab.0.center" timestamp="1584130615370">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="250" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1584130615370" />
+    <state width="1493" height="374" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1582882855619" />
+    <state width="1493" height="250" key="GridCell.Tab.0.left" timestamp="1584130615370">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="250" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1584130615370" />
+    <state width="1493" height="374" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1582882855619" />
+    <state width="1493" height="250" key="GridCell.Tab.0.right" timestamp="1584130615370">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="250" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1584130615370" />
+    <state width="1493" height="374" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1582882855619" />
+    <state x="279" y="78" key="SettingsEditor" timestamp="1582830349849">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="279" y="78" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1582830349849" />
+    <state x="93" y="93" width="1350" height="648" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1584118337358">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="93" y="93" width="1350" height="648" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.834@0.0.1536.834" timestamp="1584118337358" />
+    <state x="578" y="334" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584046081720">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="578" y="334" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1584046081720" />
+    <state x="0" y="0" width="738" height="834" key="find.popup" timestamp="1584122255232">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="0" y="0" width="738" height="834" key="find.popup/0.0.1536.834@0.0.1536.834" timestamp="1584122255232" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Music_Sharing_Site2$manage.coverage" NAME="manage Coverage Results" MODIFIED="1584117673490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
